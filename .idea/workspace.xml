@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba8d71cf-34f1-4ee5-9014-b6f35a8dab9a" name="Changes" comment="" />
+    <list default="true" id="ba8d71cf-34f1-4ee5-9014-b6f35a8dab9a" name="Changes" comment="express">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,8 +80,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769670790540</updated>
-      <workItem from="1769670791915" duration="567000" />
+      <workItem from="1769670791915" duration="1111000" />
     </task>
+    <task id="LOCAL-00001" summary="express">
+      <option name="closed" value="true" />
+      <created>1769671379865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769671379866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="express" />
+    <option name="LAST_COMMIT_MESSAGE" value="express" />
   </component>
 </project>
